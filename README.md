@@ -1,5 +1,5 @@
-# binarytree
-Binary Tree
+# Binary Search Tree
+Binary Search Tree
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 Root'umu 5 seçtim
